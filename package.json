@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/prateKL/Cloud-Based-Document-Collaboration-Too.git"
+},
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+],
   "author": "",
   "license": "ISC"
 }
